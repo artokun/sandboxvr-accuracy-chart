@@ -1,0 +1,30 @@
+{
+  "name": "sandboxvr-accuracy-chart",
+  "version": "1.0.0",
+  "description": "Dynamic Accuracy Chart",
+  "keywords": [
+    "svg"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.7.0-alpha.2 - next",
+    "react-dom": "16.7.0-alpha.2 - next",
+    "react-scripts": "2.1.1",
+    "styled-components": "4.1.2",
+    "tslint-config-prettier": "1.17.0",
+    "typescript": "3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
